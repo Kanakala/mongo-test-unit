@@ -36,10 +36,10 @@
     "mongodb": "~2.2.31",
     "mongodb-prebuilt": "~6.3.3",
     "portfinder": "^1.0.10",
-    "ps-node": "^0.1.4"
+    "ps-node": "^0.1.4",
+    "isodate": "^0.1.4"
   },
   "devDependencies": {
-    "isodate": "^0.1.4",
     "chai": "^3.5.0",
     "co": "^4.6.0",
     "mocha": "^3.2.0",
